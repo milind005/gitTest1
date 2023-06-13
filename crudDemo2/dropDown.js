@@ -4,6 +4,10 @@ const country = [
         "code": 91
     },
     {
+        "name": "india",
+        "code": 91
+    },
+    {
         "name": "america",
         "code": 93
     },
